@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "수원대학교 바로가기",
+    "description": "수원대학교 바로가기 팝업 확장프로그램",
+    "version": "1.0.1",
+    "action": {
+        "default_popup": "main.html",
+        "default_icon": "USW_icon.png"
+    }
+}
